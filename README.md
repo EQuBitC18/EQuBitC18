@@ -4,7 +4,7 @@
 <p align="center">
 Building toward a long-term goal: applying my skills in <b>ML/AI, Quantum Computing, Scientific Computing, and Software Engineering</b>
 to humanity's hardest problems - one project, one job, one paper at a time. Working through both
-<b>academic research</b> and <b>entrepreneurial ventures</b>, with the patience to build real depth before reaching for scale.
+<b>academic research</b> and <b>Engineering‑driven ventures</b>, with the patience to build real depth before reaching for scale.
 </p>
 
 <p align="center">
@@ -23,11 +23,6 @@ to humanity's hardest problems - one project, one job, one paper at a time. Work
 - ⚛️ Quantum Computing Research Intern at **QWorld** 👉 quantum image encoding (QPIE, FRQI), Quantum Harris Corner Detection
 - 🏆 3rd Place & Google DeepMind Special Recognition 👉 AI Agent Olympics Hackathon, Milan AI Week 2026
 - 🇹🇷 TEKNOFEST Top 20 — Turkish NLP Scenario Category
-- 🔴 What am I doing nowadays ?
-  - 👉 exploring multi-agent AI systems,
-  - 👉 investigating the potential of physical AI at the software layer,
-  - 👉 evaluating the promisingness of Neurosymbolic AI
-  - 👉 working on Scienticome
 ---
 
 ### 🛠️ Tech Stack
@@ -56,16 +51,18 @@ to humanity's hardest problems - one project, one job, one paper at a time. Work
 ---
 
 ### 🌟 Featured Projects
-
+ 
 | Project | Description |
 |---|---|
 | **OmniSynth** 🏆 | Full-stack multi-agent AI research platform turning collections of papers into an interactive knowledge workspace (concept graphs, per-paper wikis, gap analysis, hypotheses). 3rd Place & Google DeepMind Special Recognition at AI Agent Olympics Hackathon, Milan AI Week 2026. |
-| **RAGnosis** | A synthetic-data-powered testing & evaluation framework for RAG systems, built with Langfuse, WatsonX, Ragas, Streamlit, and FastAPI. Built during IBM internship. |
+| **RAG Testing Tool [WITHIN IBM]** | A synthetic-data-powered testing & evaluation framework for RAG systems, built with Langfuse, WatsonX, Ragas, Streamlit, and FastAPI. Built during IBM internship. |
 | **Quantum Harris Corner Detection** | Quantum realization of Harris/Sobel-based corner & edge detection using FRQI and QPIE image encoding in Qiskit, with classical post-processing. |
 | **Agentic Turkish LLM (TEKNOFEST)** | Multi-agent sentiment analysis system combining a fine-tuned Mistral-7B classifier with a LLaMA 3.1 8B orchestrator, trained on TÜBİTAK HPC resources. |
 | **Hello HPC** | Beginner-friendly tutorial and toolkit bridging classical HPC and quantum workflows, using the Qiskit 2.3 C API, Slurm, and OpenMP. |
-
-📂 More projects on my [portfolio site](https://emre-camkerten.vercel.app/)
+| **Repro** | Reproducibility Co-Pilot: an AI-assisted tool that turns a paper + its repo into a step-by-step, human-approved reproduction plan, executed autonomously in an isolated Docker sandbox with LLM-driven replanning on failed steps. |
+| **BenchPilot** | Converts a one-sentence research hypothesis into a full, literature-grounded experiment plan — automated novelty checks, source-grounded methodology generation, and a scientist review loop that remembers corrections across sessions. |
+| **NeurosymbolicSLM** | Solo research project (NeSy 2026 submission) testing whether a 7B math-specialized model with tool-integrated reasoning can match GPT-4o on GSM8K — a resumable, statistically rigorous experimental pipeline with a transparent write-up of where the paper's claims didn't survive peer review. |
+| **iac-26-transformers** | Research probe testing whether transformer models can learn meaningful latent representations of periodic orbit trajectories in the Earth-Moon system (CR3BP), benchmarked against MLP/CNN baselines. |
 
 ---
 
