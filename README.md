@@ -24,7 +24,7 @@ to humanity's hardest problems - one project, one job, one paper at a time. Work
 - ⚙️ Former Software Development Intern at **Bosch** 👉 ML, data cleaning, tool migration
 - ⚛️ Quantum Computing Research Intern at **QWorld** 👉 quantum image encoding (QPIE, FRQI), Quantum Harris Corner Detection
 - 🏆 3rd Place & Google DeepMind Special Recognition 👉 AI Agent Olympics Hackathon, Milan AI Week 2026
-- 🇹🇷 TEKNOFEST Top 20 - Turkish NLP Scenario Category
+- 🤖 TEKNOFEST Top 20 - Turkish NLP Scenario Category
 ---
 
 ### 🛠️ Tech Stack
