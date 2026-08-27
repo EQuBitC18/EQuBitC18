@@ -74,7 +74,7 @@ to humanity's hardest problems - one project, one job, one paper at a time. Work
 
 ---
 
-### 🎓 Academic Service
+### 🎓 Voluntary (Academic) Service
 
 | Organisation | Position | Description |
 |---|---|---|
